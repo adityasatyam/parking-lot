@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import { DeleteBooking, Header, ParkingSlots, SlotBooking } from "./components";
-import { Link, BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import slotData from "./slots.json";
 
 function App() {

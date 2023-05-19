@@ -38,7 +38,7 @@ function BFS(slots, row, col, ROW, COL, vis) {
 
   // Iterate while the queue
   // is not empty
-  while (q.length != 0) {
+  while (q.length !== 0) {
     var cell = q[0];
     var x = cell[0];
     var y = cell[1];

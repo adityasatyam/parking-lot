@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 const DeleteBooking = ({ slots, setSlots }) => {
   const [spot, setSpot] = useState();
   const handleSubmit = (e) => {
