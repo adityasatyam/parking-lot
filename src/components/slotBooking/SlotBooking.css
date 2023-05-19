@@ -1,0 +1,7 @@
+.SlotBooking {
+  min-height: 95vh;
+  background-color: #b0dfdf;
+  display: flex;
+  justify-content: center;
+  padding-top: 5vh;
+}

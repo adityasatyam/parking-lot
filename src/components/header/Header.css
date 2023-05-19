@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  background-color: #008080;
+  color: white;
+  height: 5vh;
+  align-items: center;
+  justify-content: space-around;
+  position: fixed;
+  width: 100%;
+}
+.btn {
+  /* background-color: #004d4d; */
+  /* cursor: pointer; */
+  /* width: 200px; */
+  /* height: 100%; */
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,132 @@
+{
+  "slots": [
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": false, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+    [
+      { "booked": false, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": false, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+    [
+      { "booked": false, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": false, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ],
+
+    [
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 },
+      { "booked": true, "vehicle_id": "BR1124", "ticket_id": 123 }
+    ]
+  ]
+}
