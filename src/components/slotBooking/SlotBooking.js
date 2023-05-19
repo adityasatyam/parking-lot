@@ -11,7 +11,8 @@ const SlotBooking = ({ slots, setSlots }) => {
       const parkingSpot = slots[+spot.split("-")[0]][+spot.split("-")[1]];
       parkingSpot.booked = true;
       parkingSpot.vehicle_id = vehicleNo;
-      parkingSpot.ticket_id = 12331;
+      parkingSpot.ticket_id = 12345;
+      parkingSpot.inTime = new Date();
       setSlots(JSON.parse(JSON.stringify(slots)));
       alert(`${spot} booked for vehicle no ${vehicleNo}`);
     }
